@@ -169,13 +169,13 @@ Los registros del sistema se conservan en el archivo LOG. Los objetos y listas s
 
 ## 9. Responsabilidad del desarrollo
 
-Responsable principal: [Completar nombre del estudiante].
+Responsable principal: Andres Felipe Barrios De La Vega.
 
-Integrantes y aportes adicionales: [Completar según la participación real del equipo].
+Integrantes y aportes adicionales: El desarrollo fue realizado en su totalidad por el responsable principal. Los demás integrantes del grupo no se reportaron en el foro colaborativo durante el periodo de la actividad.
 
 ## 10. Repositorio
 
-Enlace de GitHub: [Agregar aquí el enlace del repositorio].
+Enlace de GitHub: https://github.com/AndresBarriosProgramacion26/SOFTWARE_FJ
 
 ## 11. Referencias bibliográficas
 
